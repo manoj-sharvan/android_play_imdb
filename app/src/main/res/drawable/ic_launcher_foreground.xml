@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Cinematic Golden/Yellow Gradient Border for the Foreground Graphics -->
+    <path
+        android:strokeColor="#F5C518"
+        android:strokeWidth="3.5"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round"
+        android:pathData="M32,24h44a8,8 0,0 1,8 8v44a8,8 0,0 1,-8 8H32a8,8 0,0 1,-8 -8V32a8,8 0,0 1,8 -8z" />
+
+    <!-- Film strip perforations (left side) -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M27,30h2v4h-2V30z M27,42h2v4h-2V42z M27,54h2v4h-2V54z M27,66h2v4h-2V66z M27,78h2v4h-2V78z" />
+
+    <!-- Film strip perforations (right side) -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M79,30h2v4h-2V30z M79,42h2v4h-2V42z M79,54h2v4h-2V54z M79,66h2v4h-2V66z M79,78h2v4h-2V78z" />
+
+    <!-- Centered Play Icon -->
+    <path
+        android:fillColor="#F5C518"
+        android:pathData="M45,39 L45,69 L71,54 Z" />
+</vector>

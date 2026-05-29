@@ -1,0 +1,6 @@
+{
+  "name": "PlayIMDb",
+  "description": "A premium Cinemeta-powered movie search and streaming redirect application with IMDB WebView playback and offline watchlist support.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
